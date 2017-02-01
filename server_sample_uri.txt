@@ -1,0 +1,12 @@
+Accessing DA servers:
+
+opcda://[IP ADDRESS]/Kepware.KEPServerEX.V5
+opcda://localhost/Kepware.KEPServerEX.V5
+
+
+OPC Labs runs a public OPC UA sample server that you can use for your explorations and tests. The server is located on opcua.demo-this.com and its endpoint URLs are:
+(see http://www.opclabs.com/resources/product-information/articles/1094-public-demo-opc-xml-da-server-2)
+
+opc.tcp://opcua.demo-this.com:51210/UA/SampleServer
+http://opcua.demo-this.com:51211/UA/SampleServer
+https://opcua.demo-this.com:51212/UA/SampleServer
